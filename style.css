@@ -1,0 +1,168 @@
+.container{
+    width: 85%;
+    margin: 0 auto;
+}
+.bg-color{
+    box-shadow: 3px 2px 5px;
+    background-color: rgba(138, 253, 182, 0.253);
+}
+.color-black{
+    color: black;
+}
+.green-color{
+    color: rgb(106, 211, 2);
+}
+.color-red{
+    color: red;
+}
+.button{
+    text-decoration: none;
+    color: white;
+}
+.button{
+    margin: 0 5px;
+    border-radius: 25px;
+    padding: 15px 35px;
+    
+    background-color: rgb(106, 211, 2);
+}
+.half-width{
+    width: 50%;
+}
+/* navigation area style start */
+.menu{
+    padding-left: 140px;
+}
+.menu a{
+    padding-left: 15px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.582);
+    text-decoration: none;
+}
+.logo img{
+    width: 45%;
+}
+.navigation-area{
+    align-items: center;
+    justify-content: space-between;
+display: flex;
+}
+
+/* navigation area style end */
+.first-section{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.content-area{
+    padding-right: 20px;
+}
+.content-area h1{
+    margin: 0;
+    padding: 0;
+font-size: 3em;}
+.first-section .image-area img{
+    width: 95%;
+}
+/* book section style */
+.singal-books img{
+    width: 28%;
+}
+.books{
+    gap: 10px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.singal-books{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#bg-green{
+    padding: 15px;
+    border-radius: 7px;
+    background-color: rgba(47, 255, 47, 0.144);
+}
+#bg-white{
+    box-shadow: 1px 1px 2px;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: white;
+}
+.singal-books .book-tittle{
+    padding-top: 10px;
+    font-size: 1.4em;
+}
+.singal-books .book-des{
+    padding: 0;
+margin: 0;}
+.corses{
+    gap: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.singal-course img{
+    width: 95%;
+}
+.singal-course .button{
+    height: 25px;
+    width: 95px;
+}
+.button a{
+    text-decoration: none;
+    font-size: 1.1em;
+    color: white;
+}
+.card-footer{
+    padding-top: 15px;
+    display: flex;
+}
+.Online-Courses{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+   font-size: 2em;
+}
+.date{
+    align-items: center;
+    display: flex;
+}
+.date img{
+
+width: 18%;
+}
+.person{
+    align-items: center;
+    display: flex;
+}
+.person img{
+    width: 18%;
+}
+.singal-course{
+    border-radius: 7px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+}
+.footer-area img{
+    padding-left: 450px;
+    align-content: center;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    width: 22%;
+}
+.footer-area{
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    
+}
+.footer-area
+.description{
+
+padding-right: 40px;}
